@@ -1,0 +1,18 @@
+{
+  "name": "nijterm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "onecolor": "^2.5.0",
+    "osascript": "^1.0.0",
+    "termcolors": "^0.2.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "suisho",
+  "license": "ISC"
+}
